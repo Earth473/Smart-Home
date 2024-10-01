@@ -13,7 +13,6 @@
 #define MQPIN 35
 #define PIRPIN 15
 #define LIGHTPIN 34
-#define SOILPIN 32
 #define RAINPIN 33
 
 DHT dht(DHTPIN, DHTTYPE);
